@@ -1,0 +1,31 @@
+﻿<html>
+
+<head>
+<link rel="stylesheet" type="text/css" href="dnqatv.css">
+</head>
+
+<body>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<div align="center">
+<table border = "1" width="85%" height = "100%" cellpadding="20" background= "images/Gold_shadow.gif" repeat-y>
+<tr>
+<td width="85%" valign="top">
+
+ 
+  <b><font color = "maroon">
+   Nói đến: </b></font>
+
+    Nói về. Nói cho đến nước, đến sức.</br>  <b><font color = "maroon">
+   Nói đến: </b></font>
+
+    Nói sấn sướt cho đến đều, chẳng phải kiêng nể trong lời nói; nói chăm bẳm, đừng sợ chi.</br>
+</td>
+</tr>
+</table>
+</div>
+
+
+</body>
+</html>
