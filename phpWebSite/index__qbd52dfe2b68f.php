@@ -8,7 +8,7 @@
 Nhạc và lời: Cung Tiến<br />
 Trình bày: Hoài Hương<br />
 <br />
-<a href="http://www.trangnhahoaihuong.com/Songs/HuongXua_e.wma">Nghe nhạc</a><br />
+<a href="/Songs/HuongXua_e.wma">Nghe nhạc</a><br />
 <br />
 Người ơi, một chiều nắng tơ vàng hiền hòa hồn có mơ xa? <br />
 Người ơi, đường xa lắm con đường về làng dìu mấy thuyền đò <br />

@@ -56,7 +56,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=383&amp;MMN_position=60:60">Phật học</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=383&amp;MMN_position=60:60">Phật học</a>
 </td>
 
 
@@ -70,7 +70,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=297&amp;MMN_position=10:10">Chữ Nôm</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=297&amp;MMN_position=10:10">Chữ Nôm</a>
 </td>
 
 
@@ -98,7 +98,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Văn</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Văn</a>
 </td>
 
 
@@ -112,7 +112,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=343&amp;MMN_position=54:54">Thơ</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=343&amp;MMN_position=54:54">Thơ</a>
 </td>
 
 
@@ -175,7 +175,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=10&amp;MMN_position=27:27">Lời nói đầu</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=10&amp;MMN_position=27:27">Lời nói đầu</a>
 </td>
 
 
@@ -189,7 +189,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=16&amp;MMN_position=36:36">Tiểu sử UBTGT</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=16&amp;MMN_position=36:36">Tiểu sử UBTGT</a>
 </td>
 
 
@@ -203,7 +203,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=233&amp;MMN_position=37:37">Sách tham khảo</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=233&amp;MMN_position=37:37">Sách tham khảo</a>
 </td>
 
 
@@ -217,7 +217,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=18&amp;MMN_position=44:44">Mục lục (toàn bộ)</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=18&amp;MMN_position=44:44">Mục lục (toàn bộ)</a>
 </td>
 
 
@@ -231,7 +231,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=3&amp;MMN_position=34:34">Tra mục lục</a>
+<a href="/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=3&amp;MMN_position=34:34">Tra mục lục</a>
 </td>
 
 
@@ -266,7 +266,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=300&amp;MMN_position=39:39">Vào đề</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=300&amp;MMN_position=39:39">Vào đề</a>
 </td>
 
 
@@ -280,7 +280,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=301&amp;MMN_position=40:40">Thân phận con người</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=301&amp;MMN_position=40:40">Thân phận con người</a>
 </td>
 
 
@@ -308,7 +308,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=303&amp;MMN_position=42:42">Tuồng Trương Ngáo</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=303&amp;MMN_position=42:42">Tuồng Trương Ngáo</a>
 </td>
 
 
@@ -322,7 +322,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=319&amp;MMN_position=48:48">Tiểu sử Nguyễn Văn Sâm</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=319&amp;MMN_position=48:48">Tiểu sử Nguyễn Văn Sâm</a>
 </td>
 
 
@@ -399,7 +399,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=295&amp;MMN_position=49:49">Mục lục (toàn bộ)</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=295&amp;MMN_position=49:49">Mục lục (toàn bộ)</a>
 </td>
 
 
@@ -413,7 +413,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=2&amp;MMN_position=29:29">Tra mục lục</a>
+<a href="/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=2&amp;MMN_position=29:29">Tra mục lục</a>
 </td>
 
 
@@ -512,7 +512,7 @@ Remember Me <input type="checkbox" name="rememberme" value="1" />
 <div align="right"><i>Cái ý nghĩa vô cùng trong trời đất từ xưa đến nay,<br />
 Lại ở nơi đám khói trên ngọn cây lờ mờ nẻo xa...</i> <br />
 Nguyễn Trãi (1380-1442)</div><br />
-<a href="http://www.trangnhahoaihuong.com/files/NghiVeCaiMoNhatMongLung_TUT.pdf">Xem bản PDF</a><br />
+<a href="/files/NghiVeCaiMoNhatMongLung_TUT.pdf">Xem bản PDF</a><br />
 <br />
 1. Tôi vẫn thích những bức tranh có mây chiều lãng đãng vắt ngang đầu những ngọn núi thấp thoáng xa xa, lúc ẩn lúc hiện; hay những tia nắng sớm len vào những tán lá thông xuyên qua làn sương mù làm rực lên một dải nắng vàng óng ả, sáng lấp lánh; hay một đám khói mù khơi trên mặt hồ lúc bình minh, khi đất trời dần dần chuyển từ mờ sang tỏ. Có thể, tôi sẽ thốt lên một tiếng “wow” thán phục, khi đứng trước một bức tranh có cảnh núi non dưới một bầu trời xanh như ngọc, không gợn mây, nếu như người hoạ sĩ đã sử dụng màu sắc một cách tài tình, và vẽ núi vẽ non với những đường nét tiêu biểu, có góc cạnh, với kỹ thuật điêu luyện. Song, những bức tranh có tính ước lệ và bất động như thế khiến người xem nhìn vào đó chỉ thấy núi, bầu trời, và nắng mà không thấy được cái hồn của cảnh vật. Trong khi đó, những bức họa mà trong đó cảnh vật bị một đám sương mù, một dải mây, hay vài giọt sương mai — chẳng hạn — làm cho mờ nhạt đi, khiến cho thực tại rơi vào cõi mơ hồ, giữa hư và thực, giữa cái dường-như-có, dường-như-không, mới đích thực là những tác phẩm có có sức lôi cuốn và quyến rũ đối với tôi. Này nhé, phía sau những đám mây mù kia, ta tưởng như có gì xao động — liên tục, không ngừng — cái này hoà tan vào cái kia,  khiến cho bức họa mang hơi thở vào ra của sự sống. Chính những chỗ bị che lấp bởi mây mù cho phép trí tưởng tượng của người thưởng ngoạn mặc sức bay bổng, tuỳ theo kinh nghiệm sống và ý thích riêng của bản thân: từ trên đỉnh núi cao tuyệt mù, nghe như có một ngọn thác trắng xoá đang ầm ầm đổ xuống… cá lội tung tăng… những hang động bí ẩn… những bông hoa rừng hoang dại… những rặng thông rì rào… những thảm lá thông êm ái… mùi nhựa thông hăng hắc mà ngọt ngào quyện trong không gian… Đó là những thứ mà hoạ sĩ không cần phải ham hố và nhọc công vẽ vào trong tranh. Bằng cách làm cho cảnh vật lờ mờ ở phía xa xa, bằng vài nét phác thảo có tính cách tượng trưng, hoạ sĩ tạo cho bức tranh một cấu trúc mở, từ đó phơi bày tự tánh của sự vật và vẻ đẹp nguyên sơ của nó.<br />
 <br />
@@ -787,7 +787,7 @@ Updated on 03/26/2010 09:30 PM by HoaiHuong
     <td width="13" style="background-image : url(themes/clean/boxstyles/img/leftBg.gif)"><img height="10" alt="" src="themes/clean/boxstyles/img/leftBg.gif" width="13" border="0" /></td>
     <td width="100%" style="background-color : #eeeeef">
       <div style="color : #000000; font-family : arial, helvetica; font-size : .9em; text-transform : uppercase; text-align : left; font-weight : bold">Đề thi Trắc nghiệm môn Toán, Tú Tài II, 1973-1974</div><hr />
-      <div style="text-align : left"><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=335">Do Gs Lê Văn Đặng soạn</a>.<br />
+      <div style="text-align : left"><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=335">Do Gs Lê Văn Đặng soạn</a>.<br />
 </div>
     </td>
     <td width="19" style="background-image : url(themes/clean/boxstyles/img/rightBg.gif)"><img height="9" alt="" src="themes/clean/boxstyles/img/rightBg.gif" width="19" border="0" /></td>

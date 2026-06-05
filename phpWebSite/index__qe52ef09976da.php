@@ -56,7 +56,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=383&amp;MMN_position=60:60">Phật học</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=383&amp;MMN_position=60:60">Phật học</a>
 </td>
 
 
@@ -70,7 +70,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=297&amp;MMN_position=10:10">Chữ Nôm</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=297&amp;MMN_position=10:10">Chữ Nôm</a>
 </td>
 
 
@@ -98,7 +98,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Văn</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Văn</a>
 </td>
 
 
@@ -112,7 +112,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=343&amp;MMN_position=54:54">Thơ</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=343&amp;MMN_position=54:54">Thơ</a>
 </td>
 
 
@@ -175,7 +175,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=10&amp;MMN_position=27:27">Lời nói đầu</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=10&amp;MMN_position=27:27">Lời nói đầu</a>
 </td>
 
 
@@ -189,7 +189,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=16&amp;MMN_position=36:36">Tiểu sử UBTGT</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=16&amp;MMN_position=36:36">Tiểu sử UBTGT</a>
 </td>
 
 
@@ -203,7 +203,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=233&amp;MMN_position=37:37">Sách tham khảo</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=233&amp;MMN_position=37:37">Sách tham khảo</a>
 </td>
 
 
@@ -217,7 +217,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=18&amp;MMN_position=44:44">Mục lục (toàn bộ)</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=18&amp;MMN_position=44:44">Mục lục (toàn bộ)</a>
 </td>
 
 
@@ -231,7 +231,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=3&amp;MMN_position=34:34">Tra mục lục</a>
+<a href="/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=3&amp;MMN_position=34:34">Tra mục lục</a>
 </td>
 
 
@@ -266,7 +266,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=300&amp;MMN_position=39:39">Vào đề</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=300&amp;MMN_position=39:39">Vào đề</a>
 </td>
 
 
@@ -280,7 +280,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=301&amp;MMN_position=40:40">Thân phận con người</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=301&amp;MMN_position=40:40">Thân phận con người</a>
 </td>
 
 
@@ -308,7 +308,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=303&amp;MMN_position=42:42">Tuồng Trương Ngáo</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=303&amp;MMN_position=42:42">Tuồng Trương Ngáo</a>
 </td>
 
 
@@ -322,7 +322,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=319&amp;MMN_position=48:48">Tiểu sử Nguyễn Văn Sâm</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=319&amp;MMN_position=48:48">Tiểu sử Nguyễn Văn Sâm</a>
 </td>
 
 
@@ -399,7 +399,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=295&amp;MMN_position=49:49">Mục lục (toàn bộ)</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=295&amp;MMN_position=49:49">Mục lục (toàn bộ)</a>
 </td>
 
 
@@ -413,7 +413,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=2&amp;MMN_position=29:29">Tra mục lục</a>
+<a href="/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=2&amp;MMN_position=29:29">Tra mục lục</a>
 </td>
 
 
@@ -515,7 +515,7 @@ Rừng chữ Nôm bát ngát, chẳng làn đan.</i><br />
  <br />
 Nói chuyện về chữ Nôm hài thanh, hội ý, chữ thuần Nôm, chữ mượn Hán, chữ Nôm đời Hồng Đức, thời Nguyễn Trãi, sự thay đổi của mỗi chữ Nôm theo thời gian, sự biến âm  biến thanh khi mượn chữ Hán để tạo chữ Nôm, các âm cổ vv... sẽ làm nặng nề tâm trí người đọc. Nói chuyện về tài liệu chữ Nôm sách nọ sách kia, tờ a tờ b , chữ nầy đọc làm sao, chữ kia đọc làm sao, người nghe/đọc thấy thêm điều mới đó, nhưng sẽ dễ ngáp dài, ngán ngẫm. Tôi lâu nay vốn ngại nói chuyện mà dẫn sách, dẫn trang cho nên chỉ xin đi ngoài rìa chữ Nôm gọi là chia vui vài ba chuyện liên quan đến kỷ niệm riêng tư của mình về chữ Nôm. <br />
 <br />
-Đầu thập niên 60 của thế kỷ trước tôi được thụ giáo với Giáo sư Bửu Cầm về môn <i>Nhập Môn Chữ Nôm</i> trong chứng chỉ Văn Chương Quốc Âm khi chứng chỉ nầy mở lần đầu tiên ở trường Đại Học Văn Khoa Sàigòn. Cũng có thể là tôi nhớ lầm, có khi cái giảng khóa nầy nằm trong chứng chỉ Văn Chương Việt Hán không chừng. Gần nửa thế kỷ trôi qua, trí nhớ đã trở nên tồi tệ, phải thú thiệt là không nhớ chắc chắn về chuyện nầy. Bài giảng suốt năm của thầy gồm Ưu và Khuyết Điểm của Chữ Nôm, và phần về Cấu Tạo Chữ Nôm. Bản văn dùng làm thí dụ cụ thể là <a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=documents&amp;JAS_DocumentManager_op=viewDocument&amp;JAS_Document_id=5">Nam Cầm Khúc</a> của nhà thơ nổi tiếng Tuy Lý Vương.<br />
+Đầu thập niên 60 của thế kỷ trước tôi được thụ giáo với Giáo sư Bửu Cầm về môn <i>Nhập Môn Chữ Nôm</i> trong chứng chỉ Văn Chương Quốc Âm khi chứng chỉ nầy mở lần đầu tiên ở trường Đại Học Văn Khoa Sàigòn. Cũng có thể là tôi nhớ lầm, có khi cái giảng khóa nầy nằm trong chứng chỉ Văn Chương Việt Hán không chừng. Gần nửa thế kỷ trôi qua, trí nhớ đã trở nên tồi tệ, phải thú thiệt là không nhớ chắc chắn về chuyện nầy. Bài giảng suốt năm của thầy gồm Ưu và Khuyết Điểm của Chữ Nôm, và phần về Cấu Tạo Chữ Nôm. Bản văn dùng làm thí dụ cụ thể là <a href="/phpWebSite/index.php?module=documents&amp;JAS_DocumentManager_op=viewDocument&amp;JAS_Document_id=5">Nam Cầm Khúc</a> của nhà thơ nổi tiếng Tuy Lý Vương.<br />
  <br />
 Vốn liếng chữ Hán không nhiều, việc học lơ là lơ lãng cho nên sau đó chữ thầy lại trả gần hết cho thầy, tôi chỉ còn nhớ câu “Nam Cầm xin phổ một bài" và nhớ đại cương về sự cấu tạo của chữ Nôm, như thuần Hán, đọc trại chữ Hán, Hài thanh, Hội ý.<br />
 <br />
@@ -704,7 +704,7 @@ Updated on 08/22/2007 12:49 PM by HoaiHuong
     <td width="13" style="background-image : url(themes/clean/boxstyles/img/leftBg.gif)"><img height="10" alt="" src="themes/clean/boxstyles/img/leftBg.gif" width="13" border="0" /></td>
     <td width="100%" style="background-color : #eeeeef">
       <div style="color : #000000; font-family : arial, helvetica; font-size : .9em; text-transform : uppercase; text-align : left; font-weight : bold">Đề thi Trắc nghiệm môn Toán, Tú Tài II, 1973-1974</div><hr />
-      <div style="text-align : left"><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=335">Do Gs Lê Văn Đặng soạn</a>.<br />
+      <div style="text-align : left"><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=335">Do Gs Lê Văn Đặng soạn</a>.<br />
 </div>
     </td>
     <td width="19" style="background-image : url(themes/clean/boxstyles/img/rightBg.gif)"><img height="9" alt="" src="themes/clean/boxstyles/img/rightBg.gif" width="19" border="0" /></td>

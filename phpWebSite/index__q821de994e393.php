@@ -27,12 +27,12 @@
   <li><a href="./../Songs/BongHongCaiAo_3.wma?6161ca1ca6241b6efb4e83fbe2661929=5317cec76b15471a6f037be95ab67fb9">Bông Hồng Cài Áo</a> - Phạm Thế Mỹ</li>
   <li><a href="./../Songs/KhongTenSo4.wma?6161ca1ca6241b6efb4e83fbe2661929=5317cec76b15471a6f037be95ab67fb9">Không Tên Số 4</a> -Vũ Thành An</li>
   <li><a href="./../Songs/HuyenThoaiMe_new1.wma?6161ca1ca6241b6efb4e83fbe2661929=5317cec76b15471a6f037be95ab67fb9">Huyền Thoại Mẹ</a> -Trịnh Công Sơn</li>
-  <li><a href="http://www.trangnhahoaihuong.com/Songs/WoDeXin/WoDeXin.htm" target= _blank>Yuèliang dàibiǎo wǒ de xīn</a> 月亮代表我的心</li>  
+  <li><a href="/Songs/WoDeXin/WoDeXin.htm" target= _blank>Yuèliang dàibiǎo wǒ de xīn</a> 月亮代表我的心</li>  
 </ul>
 <br />
 <B>BÀI VIẾT</B><br />
 <ul type="disc">
-   <li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=14">Cây Đàn Guitar, Một Trời Kỷ Niệm</a></li>
+   <li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=14">Cây Đàn Guitar, Một Trời Kỷ Niệm</a></li>
 </UL>
 
 
@@ -45,10 +45,10 @@
 
 
 <ul type="disc">
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=320">Đường Chiều Lá Rụng</a> - Sáng tác: Phạm Duy; guitar: Hoàng Ngọc Tuấn; tiếng hát: Lệ Mai.</li>
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=5">Cặp song tấu guitar tuyệt vời nhất thế kỷ, Lagoya &amp; Presti</a></li>
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=6">Sonata Appassionata, Beethoven (1804)</a></li>
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=4">Parle-moi de Ma Mère - Carmen - Bizet</a></li>
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=320">Đường Chiều Lá Rụng</a> - Sáng tác: Phạm Duy; guitar: Hoàng Ngọc Tuấn; tiếng hát: Lệ Mai.</li>
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=5">Cặp song tấu guitar tuyệt vời nhất thế kỷ, Lagoya &amp; Presti</a></li>
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=6">Sonata Appassionata, Beethoven (1804)</a></li>
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=4">Parle-moi de Ma Mère - Carmen - Bizet</a></li>
 </ul>
 <br />
 

@@ -8,11 +8,11 @@
 Thơ: Vi Khuê<br />
 Nhạc: Hoài Hương<br />
 <br />
-<a href="http://www.trangnhahoaihuong.com/Songs/MotMinh_new.mp3">Nghe nhạc, do tác giả trình bày</a><br />
+<a href="/Songs/MotMinh_new.mp3">Nghe nhạc, do tác giả trình bày</a><br />
 <br />
 <br />
 <br />
-<img src= "http://www.trangnhahoaihuong.com/images/MotMinh.gif" align="center">
+<img src= "/images/MotMinh.gif" align="center">
 <br />
 <div align="center"><br />
 <b>Copyrights Tran Uyen Thi, 1984.  All rights reserved.</b></div><br />

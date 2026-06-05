@@ -56,7 +56,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=383&amp;MMN_position=60:60">Phật học</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=383&amp;MMN_position=60:60">Phật học</a>
 </td>
 
 
@@ -70,7 +70,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=297&amp;MMN_position=10:10">Chữ Nôm</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=297&amp;MMN_position=10:10">Chữ Nôm</a>
 </td>
 
 
@@ -98,7 +98,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Văn</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Văn</a>
 </td>
 
 
@@ -112,7 +112,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=343&amp;MMN_position=54:54">Thơ</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=343&amp;MMN_position=54:54">Thơ</a>
 </td>
 
 
@@ -154,7 +154,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=phpwsbb&amp;PHPWSBB_MAN_OP=list&amp;MMN_position=50:50">Diễn đàn</a>
+<a href="/phpWebSite/index.php?module=phpwsbb&amp;PHPWSBB_MAN_OP=list&amp;MMN_position=50:50">Diễn đàn</a>
 </td>
 
 
@@ -189,7 +189,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=300&amp;MMN_position=39:39">Vào đề</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=300&amp;MMN_position=39:39">Vào đề</a>
 </td>
 
 
@@ -203,7 +203,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=301&amp;MMN_position=40:40">Thân phận con người</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=301&amp;MMN_position=40:40">Thân phận con người</a>
 </td>
 
 
@@ -231,7 +231,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=303&amp;MMN_position=42:42">Tuồng Trương Ngáo</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=303&amp;MMN_position=42:42">Tuồng Trương Ngáo</a>
 </td>
 
 
@@ -245,7 +245,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=319&amp;MMN_position=48:48">Tiểu sử Nguyễn Văn Sâm</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=319&amp;MMN_position=48:48">Tiểu sử Nguyễn Văn Sâm</a>
 </td>
 
 
@@ -322,7 +322,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=295&amp;MMN_position=49:49">Mục lục (toàn bộ)</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=295&amp;MMN_position=49:49">Mục lục (toàn bộ)</a>
 </td>
 
 
@@ -336,7 +336,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=2&amp;MMN_position=29:29">Tra mục lục</a>
+<a href="/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=2&amp;MMN_position=29:29">Tra mục lục</a>
 </td>
 
 
@@ -680,7 +680,7 @@ HH
       <div class="smalltext" style="border-bottom: 1px solid; margin-bottom: 1em">
       Posted on: 09/14/2008 05:22 AM
       </div>
-      Do nhu cầu tìm hiểu về chữ Nôm , tôi đã seach được http://www.trangnhahoaihuong.com/ , thật mừng vì http://www.trangnhahoaihuong.com/ có khá nhiều tài liệu quý giá .<br />
+      Do nhu cầu tìm hiểu về chữ Nôm , tôi đã seach được / , thật mừng vì / có khá nhiều tài liệu quý giá .<br />
 <br />
 Tôi đã tiến hành tải về , nhưng chỉ được 1 nửa , có một số file không thể mở được :<br />
 <br />
@@ -710,8 +710,8 @@ Quốc Âm Thi Tập (bản Nôm)<br />
 <br />
 Lỗi : <i>The archive is either in unknown format or damaged</i><br />
 <br />
-Ngoài các file này thì tất cả đều hoạt động tốt .Tôi đang ở Việt Nam ,  tốc độ tải trung bình mỗ file từ http://www.trangnhahoaihuong.com/ cỡ 5.kb chừng 2'.<br />
-Rất mong sự phản hồi từ http://www.trangnhahoaihuong.com/
+Ngoài các file này thì tất cả đều hoạt động tốt .Tôi đang ở Việt Nam ,  tốc độ tải trung bình mỗ file từ / cỡ 5.kb chừng 2'.<br />
+Rất mong sự phản hồi từ /
       
 	  
     </td>
@@ -870,7 +870,7 @@ Rất mong sự phản hồi từ http://www.trangnhahoaihuong.com/
     <td width="13" style="background-image : url(themes/clean/boxstyles/img/leftBg.gif)"><img height="10" alt="" src="themes/clean/boxstyles/img/leftBg.gif" width="13" border="0" /></td>
     <td width="100%" style="background-color : #eeeeef">
       <div style="color : #000000; font-family : arial, helvetica; font-size : .9em; text-transform : uppercase; text-align : left; font-weight : bold">Đề thi Trắc nghiệm môn Toán, Tú Tài II, 1973-1974</div><hr />
-      <div style="text-align : left"><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=335">Do Gs Lê Văn Đặng soạn</a>.<br />
+      <div style="text-align : left"><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=335">Do Gs Lê Văn Đặng soạn</a>.<br />
 </div>
     </td>
     <td width="19" style="background-image : url(themes/clean/boxstyles/img/rightBg.gif)"><img height="9" alt="" src="themes/clean/boxstyles/img/rightBg.gif" width="19" border="0" /></td>

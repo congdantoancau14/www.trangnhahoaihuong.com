@@ -43,6 +43,6 @@ Viết tại Tân Trúc, Ðài Loan, năm 1999.<br />
 <br />
 Email: <a href="mailto:yurong@itri.org.tw">yurong@itri.org.tw</a>, <a href="mailto:vinh_yurong@yahoo.com">vinh_yurong@yahoo.com</a><br />
 <br />
-Đọc thêm: <a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=293">Thơ chữ Hán của Ưng Bình Thúc Giạ Thị - Nguyễn Hữu Vinh </a>
+Đọc thêm: <a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=293">Thơ chữ Hán của Ưng Bình Thúc Giạ Thị - Nguyễn Hữu Vinh </a>
 
 </div>

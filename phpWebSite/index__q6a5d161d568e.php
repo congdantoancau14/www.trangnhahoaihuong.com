@@ -60,7 +60,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=297&amp;MMN_position=10:10">Chữ Nôm</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=297&amp;MMN_position=10:10">Chữ Nôm</a>
 </td>
 
 
@@ -88,7 +88,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Văn</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Văn</a>
 </td>
 
 
@@ -102,7 +102,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=343&amp;MMN_position=54:54">Thơ</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=343&amp;MMN_position=54:54">Thơ</a>
 </td>
 
 
@@ -116,7 +116,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=phpwsbb&amp;PHPWSBB_MAN_OP=list&amp;MMN_position=50:50">Diễn đàn</a>
+<a href="/phpWebSite/index.php?module=phpwsbb&amp;PHPWSBB_MAN_OP=list&amp;MMN_position=50:50">Diễn đàn</a>
 </td>
 
 
@@ -130,7 +130,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=faq&amp;FAQ_op=menu&amp;FAQ_op=viewFAQs&amp;MMN_position=47:47">Mẹo vặt (computer)</a>
+<a href="/phpWebSite/index.php?module=faq&amp;FAQ_op=menu&amp;FAQ_op=viewFAQs&amp;MMN_position=47:47">Mẹo vặt (computer)</a>
 </td>
 
 
@@ -146,7 +146,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?&amp;module=search&amp;mod=all&amp;search_op=search&amp;query=&amp;search=Search&amp;MMN_position=53:53">Site map</a>
+<a href="/phpWebSite/index.php?&amp;module=search&amp;mod=all&amp;search_op=search&amp;query=&amp;search=Search&amp;MMN_position=53:53">Site map</a>
 </td>
 
 
@@ -193,7 +193,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=10&amp;MMN_position=27:27">Lời nói đầu</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=10&amp;MMN_position=27:27">Lời nói đầu</a>
 </td>
 
 
@@ -207,7 +207,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=16&amp;MMN_position=36:36">Tiểu sử UBTGT</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=16&amp;MMN_position=36:36">Tiểu sử UBTGT</a>
 </td>
 
 
@@ -221,7 +221,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=233&amp;MMN_position=37:37">Sách tham khảo</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=233&amp;MMN_position=37:37">Sách tham khảo</a>
 </td>
 
 
@@ -235,7 +235,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=18&amp;MMN_position=44:44">Mục lục (toàn bộ)</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=18&amp;MMN_position=44:44">Mục lục (toàn bộ)</a>
 </td>
 
 
@@ -249,7 +249,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=3&amp;MMN_position=34:34">Tra mục lục</a>
+<a href="/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=3&amp;MMN_position=34:34">Tra mục lục</a>
 </td>
 
 
@@ -284,7 +284,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=300&amp;MMN_position=39:39">Vào đề</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=300&amp;MMN_position=39:39">Vào đề</a>
 </td>
 
 
@@ -298,7 +298,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=301&amp;MMN_position=40:40">Thân phận con người</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=301&amp;MMN_position=40:40">Thân phận con người</a>
 </td>
 
 
@@ -326,7 +326,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=303&amp;MMN_position=42:42">Tuồng Trương Ngáo</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=303&amp;MMN_position=42:42">Tuồng Trương Ngáo</a>
 </td>
 
 
@@ -340,7 +340,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=319&amp;MMN_position=48:48">Tiểu sử Nguyễn Văn Sâm</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=319&amp;MMN_position=48:48">Tiểu sử Nguyễn Văn Sâm</a>
 </td>
 
 
@@ -417,7 +417,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=295&amp;MMN_position=49:49">Mục lục (toàn bộ)</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=295&amp;MMN_position=49:49">Mục lục (toàn bộ)</a>
 </td>
 
 
@@ -431,7 +431,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=2&amp;MMN_position=29:29">Tra mục lục</a>
+<a href="/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=2&amp;MMN_position=29:29">Tra mục lục</a>
 </td>
 
 
@@ -679,7 +679,7 @@ Tiếc thay, ngày 24/4/1967, Presti qua đời ở New York vì bệnh ung thư
 
 Những tác phẩm mà tôi thích nhất do Lagoya & Presti chuyển soạn và trình diễn:
 
-<li><a href="http://www.trangnhahoaihuong.com/Songs/Oriental.mp3" target= _blank>Intermezzo and Danza Espanola, Op. 37 No. 2 (Oriental)</a> của Enrique Granados.</li>
+<li><a href="/Songs/Oriental.mp3" target= _blank>Intermezzo and Danza Espanola, Op. 37 No. 2 (Oriental)</a> của Enrique Granados.</li>
 <li>Claire de Lune của Debussy</li>
 <li>Serenade in G Op. 96, No. 3 của Carulli</li>
 
@@ -1517,16 +1517,16 @@ Viết tại Tân Trúc, Ðài Loan, năm 1999.
 <br />
 Email: yurong@itri.org.tw, vinh_yurong@yahoo.com
 
-Đọc thêm: <a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=293">Thơ chữ Hán của Ưng Bình Thúc Giạ Thị - Nguyễn Hữu Vinh </a></td><td align="center"><a href="./index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=10&amp;6161ca1ca6241b6efb4e83fbe2661929=4bf4358a68322758c187da1a3ab3f16e">View</a></td></tr>
+Đọc thêm: <a href="/phpWebSite/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=293">Thơ chữ Hán của Ưng Bình Thúc Giạ Thị - Nguyễn Hữu Vinh </a></td><td align="center"><a href="./index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=10&amp;6161ca1ca6241b6efb4e83fbe2661929=4bf4358a68322758c187da1a3ab3f16e">View</a></td></tr>
 <tr class="bg_light"><td>10</td><td><b>Lộc Minh Đình Thi Thảo</b><br /><h3>Nguyễn Hữu Vinh dịch</h3>
 
 <ol type="1">
-  <li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=20&MMN_position=25:25">Tựa</a></li>
-  <li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=18">Mục Lục</a></li>
-  <li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=10">Lời Nói Đầu</a></li>
-  <li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=16">Tiểu sử Cụ Ưng Bình</a></li>
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=233">Sách Tham Khảo</a></li>
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=293">Thơ chữ Hán “Lộc Minh Ðình Thi Thảo” của Ưng Bình Thúc Giạ Thị </a></li>
+  <li><a href="/phpWebSite/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=20&MMN_position=25:25">Tựa</a></li>
+  <li><a href="/phpWebSite/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=18">Mục Lục</a></li>
+  <li><a href="/phpWebSite/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=10">Lời Nói Đầu</a></li>
+  <li><a href="/phpWebSite/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=16">Tiểu sử Cụ Ưng Bình</a></li>
+<li><a href="/phpWebSite/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=233">Sách Tham Khảo</a></li>
+<li><a href="/phpWebSite/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=293">Thơ chữ Hán “Lộc Minh Ðình Thi Thảo” của Ưng Bình Thúc Giạ Thị </a></li>
 </ol>
 </td><td align="center"><a href="./index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=17&amp;6161ca1ca6241b6efb4e83fbe2661929=4bf4358a68322758c187da1a3ab3f16e">View</a></td></tr>
 
@@ -1626,7 +1626,7 @@ Email: yurong@itri.org.tw, vinh_yurong@yahoo.com
     <td width="13" style="background-image : url(themes/clean/boxstyles/img/leftBg.gif)"><img height="10" alt="" src="themes/clean/boxstyles/img/leftBg.gif" width="13" border="0" /></td>
     <td width="100%" style="background-color : #eeeeef">
       <div style="color : #000000; font-family : arial, helvetica; font-size : .9em; text-transform : uppercase; text-align : left; font-weight : bold">Đề thi Trắc nghiệm môn Toán, Tú Tài II, 1973-1974</div><hr />
-      <div style="text-align : left"><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=335">Do Gs Lê Văn Đặng soạn</a>.<br />
+      <div style="text-align : left"><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=335">Do Gs Lê Văn Đặng soạn</a>.<br />
 </div>
     </td>
     <td width="19" style="background-image : url(themes/clean/boxstyles/img/rightBg.gif)"><img height="9" alt="" src="themes/clean/boxstyles/img/rightBg.gif" width="19" border="0" /></td>

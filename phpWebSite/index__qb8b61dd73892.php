@@ -56,7 +56,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=383&amp;MMN_position=60:60">Phật học</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=383&amp;MMN_position=60:60">Phật học</a>
 </td>
 
 
@@ -70,7 +70,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=297&amp;MMN_position=10:10">Chữ Nôm</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=297&amp;MMN_position=10:10">Chữ Nôm</a>
 </td>
 
 
@@ -98,7 +98,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Văn</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Văn</a>
 </td>
 
 
@@ -112,7 +112,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=343&amp;MMN_position=54:54">Thơ</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=343&amp;MMN_position=54:54">Thơ</a>
 </td>
 
 
@@ -175,7 +175,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=10&amp;MMN_position=27:27">Lời nói đầu</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=10&amp;MMN_position=27:27">Lời nói đầu</a>
 </td>
 
 
@@ -189,7 +189,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=16&amp;MMN_position=36:36">Tiểu sử UBTGT</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=16&amp;MMN_position=36:36">Tiểu sử UBTGT</a>
 </td>
 
 
@@ -203,7 +203,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=233&amp;MMN_position=37:37">Sách tham khảo</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=233&amp;MMN_position=37:37">Sách tham khảo</a>
 </td>
 
 
@@ -217,7 +217,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=18&amp;MMN_position=44:44">Mục lục (toàn bộ)</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=18&amp;MMN_position=44:44">Mục lục (toàn bộ)</a>
 </td>
 
 
@@ -231,7 +231,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=3&amp;MMN_position=34:34">Tra mục lục</a>
+<a href="/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=3&amp;MMN_position=34:34">Tra mục lục</a>
 </td>
 
 
@@ -266,7 +266,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=300&amp;MMN_position=39:39">Vào đề</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=300&amp;MMN_position=39:39">Vào đề</a>
 </td>
 
 
@@ -280,7 +280,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=301&amp;MMN_position=40:40">Thân phận con người</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=301&amp;MMN_position=40:40">Thân phận con người</a>
 </td>
 
 
@@ -308,7 +308,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=303&amp;MMN_position=42:42">Tuồng Trương Ngáo</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=303&amp;MMN_position=42:42">Tuồng Trương Ngáo</a>
 </td>
 
 
@@ -322,7 +322,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=319&amp;MMN_position=48:48">Tiểu sử Nguyễn Văn Sâm</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=319&amp;MMN_position=48:48">Tiểu sử Nguyễn Văn Sâm</a>
 </td>
 
 
@@ -401,7 +401,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=295&amp;MMN_position=49:49">Mục lục (toàn bộ)</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=295&amp;MMN_position=49:49">Mục lục (toàn bộ)</a>
 </td>
 
 
@@ -413,7 +413,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=2&amp;MMN_position=29:29">Tra mục lục</a>
+<a href="/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=2&amp;MMN_position=29:29">Tra mục lục</a>
 </td>
 
 
@@ -507,56 +507,56 @@ Remember Me <input type="checkbox" name="rememberme" value="1" />
 
 
 <ol type="1">
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=240">Bài số 1:</a> "Tạp Thi (Vương Duy)"</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=241">Bài số 2:</a> "Ðề Kim Lăng Độ (Trương Hỗ)"</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=242">Bài số 3:</a> "Tĩnh Dạ Tư (Lý Bạch)"</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=243">Bài số 4:</a> "Thục Đạo Hậu Kỳ (Trương Thuyết)"</li> 
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=244">Bài số 5:</a> "Văn Nhạn (Vi Ứng Vật)"</li>
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=245">Bài số 6:</a> "Xuân Dạ Lạc Thành Văn Địch (Lý Bạch)"</li>
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=246">Bài số 7:</a> "Xuân Hứng (Võ Nguyên Hành)"</li>
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=247">Bài số 8:</a> "Dữ Sử Lang Trung Khâm Thính Hoàng Hạc Lâu Thượng Xuy Địch (Lý Bạch)"</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=248">Bài số 9:</a> " Sơn Trung (Vương Bột)"</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=249">Bài số 10:</a> " Vãn Xuân Giang Tình Ký Hữu Nhân (Hàn Tông)"</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=250">Bài số 11:</a> "Tuyệt Cú - kỳ nhị (Ðỗ Phủ)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=251">Bài số 12:</a> “Hoàng Hạc Lâu (Thôi Hiệu)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=252">Bài số 13:</a> “Tạp Thi (Vô danh thị)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=253">Bài số 14:</a> “Cửu Nguyệt Cửu nhật Ức Sơn Ðông Huynh Đệ (Vương Duy)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=254">Bài số 15:</a> “Thu Tứ (Trương Tịch)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=255">Bài số 16:</a> “Phần Thượng Kinh Thu (Tô Ðĩnh)”</li> 
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=256">Bài số 17:</a> “Lữ Túc (Ðỗ Mục)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=257">Bài số 18:</a> “Lữ Hoài (Thôi Ðồ)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=258">Bài số 19:</a> “Ðộ Hán Giang (Lý Tần)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=259">Bài số 20:</a> “Hồi Hương Ngẫu Thư (Kỳ nhất)(Hạ Tri Chương)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=260">Bài số 21:</a> “Hồi Hương Ngẫu Thư (Kỳ nhị)(Hạ Tri Chương)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=261">Bài số 22:</a> “Tạp Thi (Vô danh thị)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=262">Bài số 23:</a> “Vị Thành Khúc (Vương Duy)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=263">Bài số 24:</a> “Biệt Nhân (Vương Bột)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=264">Bài số 25:</a> “Cổ Ly Biệt (Vi Trang)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=265">Bài số 26:</a> “Nam Phố Biệt (Bạch Cư Dị)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=266">Bài số 27:</a> “Hoài Thượng Dữ Hữu Nhân Biệt (Trịnh Cốc)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=267">Bài số 28:</a> “Hoàng Hạc Lâu Tống Mạnh Hạo Nhiên Chi Quảng Lăng (Lý Bạch)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=268">Bài số 29:</a> “Giang Đình Dạ Nguyệt Tống Biệt (Vương Bột)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=269">Bài số 30:</a> “Ðơn Dương Tống Vi Tham Quân (Nghiêm Duy)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=270">Bài số 31:</a> “Tạ Đình Tống Biệt (Hứa Hồn)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=271">Bài số 32:</a> “Sơn Trung Tống Biệt (Vương Duy)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=272">Bài số 33:</a> “Trùng Tặng Lạc Thiên (Nguyên Chẩn)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=273">Bài số 34:</a> “Tống Trầm Tử Phúc Chi Giang Đông (Vương Duy)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=274">Bài số 35:</a> “Tống Sài Thị Ngự (Vương Xương Linh)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=275">Bài số 36:</a> “Tống Linh Triệt (Lưu Trường Khanh)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=276">Bài số 37:</a> “Tống Lý Thị Lang Phó Thường Châu (Giả Chí)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=277">Bài số 38:</a> “Kim Lăng Tửu Tứ Lưu Biệt (Lý Bạch)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=278">Bài số 39:</a> “Dạ Bạc Ngưu Chử Hoài Cổ” (Lý Bạch)</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=279">Bài số 40:</a> “Ký Nhân (Trương Bí)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=280">Bài số 41:</a> “Ðề Ðô Thành Nam Trang (Thôi Hộ)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=281">Bài số 42:</a> “Giang Lâu Hữu Cảm (Triệu Hỗ)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=282">Bài số 43:</a> “Dạ Vũ Ký Bắc (Lý Thương Ẩn)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=283">Bài số 44:</a> “Ức Ðông Sơn (Lý Bạch)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=284">Bài số 45:</a> “Thu Dạ Ký Khưu Viên Ngoại (Vi Ứng Vật)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=285">Bài số 46:</a> “Túc Lạc Thị Đình Ký Hoài Thôi Ung Thôi Cổn (Lý Thương Ẩn)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=286">Bài số 47:</a> “Vọng Nguyệt Hoài Viễn (Trương Cửu Linh)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=287">Bài số 48:</a> “Kim Hương Tống Vệ Bát Chi Tây Kinh (Lý Bạch)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=288">Bài số 49:</a> “Vấn Lưu Thập Cửu (Bạch Cư Dị)”</li>  
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=289">Bài số 50:</a> “Thu Dạ Hỷ Ngộ Vương Xử Sĩ (Vương Tích)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=240">Bài số 1:</a> "Tạp Thi (Vương Duy)"</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=241">Bài số 2:</a> "Ðề Kim Lăng Độ (Trương Hỗ)"</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=242">Bài số 3:</a> "Tĩnh Dạ Tư (Lý Bạch)"</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=243">Bài số 4:</a> "Thục Đạo Hậu Kỳ (Trương Thuyết)"</li> 
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=244">Bài số 5:</a> "Văn Nhạn (Vi Ứng Vật)"</li>
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=245">Bài số 6:</a> "Xuân Dạ Lạc Thành Văn Địch (Lý Bạch)"</li>
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=246">Bài số 7:</a> "Xuân Hứng (Võ Nguyên Hành)"</li>
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=247">Bài số 8:</a> "Dữ Sử Lang Trung Khâm Thính Hoàng Hạc Lâu Thượng Xuy Địch (Lý Bạch)"</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=248">Bài số 9:</a> " Sơn Trung (Vương Bột)"</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=249">Bài số 10:</a> " Vãn Xuân Giang Tình Ký Hữu Nhân (Hàn Tông)"</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=250">Bài số 11:</a> "Tuyệt Cú - kỳ nhị (Ðỗ Phủ)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=251">Bài số 12:</a> “Hoàng Hạc Lâu (Thôi Hiệu)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=252">Bài số 13:</a> “Tạp Thi (Vô danh thị)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=253">Bài số 14:</a> “Cửu Nguyệt Cửu nhật Ức Sơn Ðông Huynh Đệ (Vương Duy)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=254">Bài số 15:</a> “Thu Tứ (Trương Tịch)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=255">Bài số 16:</a> “Phần Thượng Kinh Thu (Tô Ðĩnh)”</li> 
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=256">Bài số 17:</a> “Lữ Túc (Ðỗ Mục)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=257">Bài số 18:</a> “Lữ Hoài (Thôi Ðồ)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=258">Bài số 19:</a> “Ðộ Hán Giang (Lý Tần)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=259">Bài số 20:</a> “Hồi Hương Ngẫu Thư (Kỳ nhất)(Hạ Tri Chương)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=260">Bài số 21:</a> “Hồi Hương Ngẫu Thư (Kỳ nhị)(Hạ Tri Chương)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=261">Bài số 22:</a> “Tạp Thi (Vô danh thị)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=262">Bài số 23:</a> “Vị Thành Khúc (Vương Duy)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=263">Bài số 24:</a> “Biệt Nhân (Vương Bột)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=264">Bài số 25:</a> “Cổ Ly Biệt (Vi Trang)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=265">Bài số 26:</a> “Nam Phố Biệt (Bạch Cư Dị)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=266">Bài số 27:</a> “Hoài Thượng Dữ Hữu Nhân Biệt (Trịnh Cốc)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=267">Bài số 28:</a> “Hoàng Hạc Lâu Tống Mạnh Hạo Nhiên Chi Quảng Lăng (Lý Bạch)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=268">Bài số 29:</a> “Giang Đình Dạ Nguyệt Tống Biệt (Vương Bột)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=269">Bài số 30:</a> “Ðơn Dương Tống Vi Tham Quân (Nghiêm Duy)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=270">Bài số 31:</a> “Tạ Đình Tống Biệt (Hứa Hồn)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=271">Bài số 32:</a> “Sơn Trung Tống Biệt (Vương Duy)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=272">Bài số 33:</a> “Trùng Tặng Lạc Thiên (Nguyên Chẩn)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=273">Bài số 34:</a> “Tống Trầm Tử Phúc Chi Giang Đông (Vương Duy)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=274">Bài số 35:</a> “Tống Sài Thị Ngự (Vương Xương Linh)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=275">Bài số 36:</a> “Tống Linh Triệt (Lưu Trường Khanh)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=276">Bài số 37:</a> “Tống Lý Thị Lang Phó Thường Châu (Giả Chí)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=277">Bài số 38:</a> “Kim Lăng Tửu Tứ Lưu Biệt (Lý Bạch)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=278">Bài số 39:</a> “Dạ Bạc Ngưu Chử Hoài Cổ” (Lý Bạch)</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=279">Bài số 40:</a> “Ký Nhân (Trương Bí)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=280">Bài số 41:</a> “Ðề Ðô Thành Nam Trang (Thôi Hộ)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=281">Bài số 42:</a> “Giang Lâu Hữu Cảm (Triệu Hỗ)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=282">Bài số 43:</a> “Dạ Vũ Ký Bắc (Lý Thương Ẩn)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=283">Bài số 44:</a> “Ức Ðông Sơn (Lý Bạch)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=284">Bài số 45:</a> “Thu Dạ Ký Khưu Viên Ngoại (Vi Ứng Vật)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=285">Bài số 46:</a> “Túc Lạc Thị Đình Ký Hoài Thôi Ung Thôi Cổn (Lý Thương Ẩn)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=286">Bài số 47:</a> “Vọng Nguyệt Hoài Viễn (Trương Cửu Linh)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=287">Bài số 48:</a> “Kim Hương Tống Vệ Bát Chi Tây Kinh (Lý Bạch)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=288">Bài số 49:</a> “Vấn Lưu Thập Cửu (Bạch Cư Dị)”</li>  
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=289">Bài số 50:</a> “Thu Dạ Hỷ Ngộ Vương Xử Sĩ (Vương Tích)”</li>  
 </ol>
 <br />
 
@@ -681,7 +681,7 @@ Updated on 12/21/2006 05:38 PM by NHV
     <td width="13" style="background-image : url(themes/clean/boxstyles/img/leftBg.gif)"><img height="10" alt="" src="themes/clean/boxstyles/img/leftBg.gif" width="13" border="0" /></td>
     <td width="100%" style="background-color : #eeeeef">
       <div style="color : #000000; font-family : arial, helvetica; font-size : .9em; text-transform : uppercase; text-align : left; font-weight : bold">Đề thi Trắc nghiệm môn Toán, Tú Tài II, 1973-1974</div><hr />
-      <div style="text-align : left"><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=335">Do Gs Lê Văn Đặng soạn</a>.<br />
+      <div style="text-align : left"><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=335">Do Gs Lê Văn Đặng soạn</a>.<br />
 </div>
     </td>
     <td width="19" style="background-image : url(themes/clean/boxstyles/img/rightBg.gif)"><img height="9" alt="" src="themes/clean/boxstyles/img/rightBg.gif" width="19" border="0" /></td>

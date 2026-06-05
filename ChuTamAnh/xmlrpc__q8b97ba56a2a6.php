@@ -2,13 +2,13 @@
   <service>
     <engineName>WordPress</engineName>
     <engineLink>http://wordpress.org/</engineLink>
-    <homePageLink>http://www.trangnhahoaihuong.com/ChuTamAnh</homePageLink>
+    <homePageLink>/ChuTamAnh</homePageLink>
     <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="http://www.trangnhahoaihuong.com/ChuTamAnh/xmlrpc.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://www.trangnhahoaihuong.com/ChuTamAnh/xmlrpc.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://www.trangnhahoaihuong.com/ChuTamAnh/xmlrpc.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="http://www.trangnhahoaihuong.com/ChuTamAnh/xmlrpc.php" />
-      <api name="Atom" blogID="" preferred="false" apiLink="http://www.trangnhahoaihuong.com/ChuTamAnh/wp-app.php/service" />
+      <api name="WordPress" blogID="1" preferred="true" apiLink="/ChuTamAnh/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="/ChuTamAnh/xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="/ChuTamAnh/xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="/ChuTamAnh/xmlrpc.php" />
+      <api name="Atom" blogID="" preferred="false" apiLink="/ChuTamAnh/wp-app.php/service" />
     </apis>
   </service>
 </rsd>

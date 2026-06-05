@@ -58,7 +58,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=11&amp;MMN_position=3:3">Âm nhạc</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=11&amp;MMN_position=3:3">Âm nhạc</a>
 </td>
 
 
@@ -72,7 +72,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Thơ văn</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Thơ văn</a>
 </td>
 
 
@@ -86,7 +86,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=12&amp;MMN_position=10:10">Chữ Nôm</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=12&amp;MMN_position=10:10">Chữ Nôm</a>
 </td>
 
 

@@ -60,7 +60,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=383&amp;MMN_position=60:60">Phật học</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=383&amp;MMN_position=60:60">Phật học</a>
 </td>
 
 
@@ -74,7 +74,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=297&amp;MMN_position=10:10">Chữ Nôm</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=297&amp;MMN_position=10:10">Chữ Nôm</a>
 </td>
 
 
@@ -102,7 +102,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Văn</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Văn</a>
 </td>
 
 
@@ -116,7 +116,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=343&amp;MMN_position=54:54">Thơ</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=343&amp;MMN_position=54:54">Thơ</a>
 </td>
 
 
@@ -158,7 +158,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=phpwsbb&amp;PHPWSBB_MAN_OP=list&amp;MMN_position=50:50">Diễn đàn</a>
+<a href="/phpWebSite/index.php?module=phpwsbb&amp;PHPWSBB_MAN_OP=list&amp;MMN_position=50:50">Diễn đàn</a>
 </td>
 
 
@@ -193,7 +193,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=300&amp;MMN_position=39:39">Vào đề</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=300&amp;MMN_position=39:39">Vào đề</a>
 </td>
 
 
@@ -207,7 +207,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=301&amp;MMN_position=40:40">Thân phận con người</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=301&amp;MMN_position=40:40">Thân phận con người</a>
 </td>
 
 
@@ -235,7 +235,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=303&amp;MMN_position=42:42">Tuồng Trương Ngáo</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=303&amp;MMN_position=42:42">Tuồng Trương Ngáo</a>
 </td>
 
 
@@ -249,7 +249,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=319&amp;MMN_position=48:48">Tiểu sử Nguyễn Văn Sâm</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=319&amp;MMN_position=48:48">Tiểu sử Nguyễn Văn Sâm</a>
 </td>
 
 
@@ -326,7 +326,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=295&amp;MMN_position=49:49">Mục lục (toàn bộ)</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=295&amp;MMN_position=49:49">Mục lục (toàn bộ)</a>
 </td>
 
 
@@ -340,7 +340,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=2&amp;MMN_position=29:29">Tra mục lục</a>
+<a href="/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=2&amp;MMN_position=29:29">Tra mục lục</a>
 </td>
 
 
@@ -434,20 +434,20 @@ Remember Me <input type="checkbox" name="rememberme" value="1" />
 
 
 <ul type="disc">
-<li><b><a href="http://www.trangnhahoaihuong.com/files/NghiVeCaiMoNhatMongLung_TUT.pdf" target = _blank">Nghĩ về cái mờ nhạt, mông lung</a></b></li>
+<li><b><a href="/files/NghiVeCaiMoNhatMongLung_TUT.pdf" target = _blank">Nghĩ về cái mờ nhạt, mông lung</a></b></li>
    <br><i>Cái ý nghĩa vô cùng trong trời đất từ xưa đến nay,‎<br />
 Lại ở nơi đám khói trên ngọn cây lờ mờ nẻo xa... ‎<br />
 Nguyễn Trãi (1380-1442)<br />
 <br />
 Tôi vẫn thích những bức tranh có mây chiều lãng đãng vắt ngang đầu những ngọn ‎núi thấp thoáng xa xa, lúc ẩn lúc hiện; hay những tia nắng sớm len vào những tán lá ‎thông xuyên qua làn sương mù làm rực lên một dải nắng vàng óng ả, sáng lấp lánh; ‎hay một đám khói mù khơi trên mặt hồ lúc bình minh — khi trời đất bắt đầu chuyển từ ‎tối sang sáng, hoặc lúc hoàng hôn — khi trời chuyển từ sáng sang tối. ..</i><br />
    <br />
-   <li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=14"><b>Cây đàn guitar, một trời kỷ niệm</b></a></li>
+   <li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=14"><b>Cây đàn guitar, một trời kỷ niệm</b></a></li>
    <br><i>Những ngày ba ở trong trại cải tạo, mẹ cất cây đàn guitar vào tủ, cùng với một tập nhạc dày cộp, những xấp hình loang lổ vì nước lụt, lưu bút của học trò, giấy tờ quan trọng..., khoá lại. Mỗi lần mẹ mở tủ là tôi đòi đem cây đàn ra ngắm nghía, sờ mó, khảy tứng từng tưng...</i><br />
 <br />
-      <li><a href="http://www.trangnhahoaihuong.com/HH_BienAm_050822.pdf"><b>Thử tìm hiểu luật biến âm qua hai bản Nôm</b></a> <b>(PDF)</b>- Bài tham luận tại Hội Thảo về Chữ Nôm tại Việt Viện Học, 03/2005.</li>
+      <li><a href="/HH_BienAm_050822.pdf"><b>Thử tìm hiểu luật biến âm qua hai bản Nôm</b></a> <b>(PDF)</b>- Bài tham luận tại Hội Thảo về Chữ Nôm tại Việt Viện Học, 03/2005.</li>
   <br><i>Luật biến âm từ một âm Hán Việt sang âm Nôm tuy phức tạp, nhưng phần lớn có quy luật, quy tắc chung. Bài viết này khảo sát cấu trúc chữ Nôm có thành phần biểu âm (giả tá và thuần Nôm) trong hai bản Nôm Cư Trần Lạc Đạo Phú (TK XIII) và Dì Ghẻ Con Chồng (TK XX), phân tích các trường hợp biến âm của các phụ âm đầu, phụ âm cuối, và thanh điệu   bằng phương pháp thống kê, nhằm mục đích đưa đến một “Bảng biến âm tổng quát”, với những trích dẫn từ hai văn bản nói trên, đồng thời nêu ra những trường hợp biến âm có tỷ lệ cao.</i>  <br />
 <br />
-   <li><a href="http://www.trangnhahoaihuong.com/DauVetAmVietCo_final.pdf"> <b>Ai vẽ được, ai xoá được: dấu vết âm Việt cổ, phụ âm kép và từ song tiết</a> (PDF)</b>(viết chung với Nguyễn Hữu Vinh) - Bài tham luận tại Hội Nghị Quốc Tế về Tiếng Việt, Viện Việt Học, 07/2007 </li>
+   <li><a href="/DauVetAmVietCo_final.pdf"> <b>Ai vẽ được, ai xoá được: dấu vết âm Việt cổ, phụ âm kép và từ song tiết</a> (PDF)</b>(viết chung với Nguyễn Hữu Vinh) - Bài tham luận tại Hội Nghị Quốc Tế về Tiếng Việt, Viện Việt Học, 07/2007 </li>
    <br><i>Trong suốt bảy thế kỷ của nền văn học chữ Nôm, từ thế kỷ XIII cho đến đầu thế kỷ XX, người xưa đã để lại một số vết tích về ngữ âm của tiếng Việt xưa trong cách ghi chữ Nôm.  Những vết tích này cho thấy trong tiếng Việt đã từng tồn tại một số từ có hai âm tiết, như bà-ngựa (ngựa, horse), la-đá (đá, rock), bồ-cóc (cóc, toad)..., và một số phụ âm kép bl, kl, kr, ml, tl, sl..., như trong các từ blăng (trăng, moon), kleo (treo, hanging), klộng (trống, drum), mlời (lời, word), krấm (sấm, thunder)...</i><br />
 </ul>
 <br />
@@ -460,8 +460,8 @@ Tôi vẫn thích những bức tranh có mây chiều lãng đãng vắt ngang 
 
 
 <ul type="disc">
-  <li><a href="http://www.trangnhahoaihuong.com/files/03_TanhKhong_final.pdf" target = _blank>Tánh không, thuyết tương đối, và vật lý học lượng tử </a> <img border="0" src="http://www.trangnhahoaihuong.com/images/new.gif" width="32" height="16"> (Emptiness, Relativity and Quantum Physics)- <b>Đạt Lai Lạt Ma XIV </b>. Trần Uyên Thi dịch và chú giải. (Đây là một chương trong quyển <i>The Universe in a Single Atom</i> của Đạt Lai Lạt Ma đời thứ XIV)</li>
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=384">Đức Phật dạy con như thế nào</a> (The Buddha as a Parent)- <b>Gil Fronsdal</b>.  Hoài Hương dịch</li>
+  <li><a href="/files/03_TanhKhong_final.pdf" target = _blank>Tánh không, thuyết tương đối, và vật lý học lượng tử </a> <img border="0" src="/images/new.gif" width="32" height="16"> (Emptiness, Relativity and Quantum Physics)- <b>Đạt Lai Lạt Ma XIV </b>. Trần Uyên Thi dịch và chú giải. (Đây là một chương trong quyển <i>The Universe in a Single Atom</i> của Đạt Lai Lạt Ma đời thứ XIV)</li>
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=384">Đức Phật dạy con như thế nào</a> (The Buddha as a Parent)- <b>Gil Fronsdal</b>.  Hoài Hương dịch</li>
 </ul>
 <br />
 
@@ -474,12 +474,12 @@ Tôi vẫn thích những bức tranh có mây chiều lãng đãng vắt ngang 
 
 (Để ghi lại một chặng đường niên thiếu đã qua, 1980-1985)<br />
 <ul type="disc">
-  <li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=375">Trước Cuộc Đời Hôm Nay</a>, 1985 (phổ từ thơ Vi Khuê)</li> <img border="0" src="http://www.trangnhahoaihuong.com/images/new.gif" width="32" height="16">
+  <li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=375">Trước Cuộc Đời Hôm Nay</a>, 1985 (phổ từ thơ Vi Khuê)</li> <img border="0" src="/images/new.gif" width="32" height="16">
 <br />
-  <li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=376">Một Mình</a>, 1985 (phổ từ thơ Vi Khuê)</li>
+  <li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=376">Một Mình</a>, 1985 (phổ từ thơ Vi Khuê)</li>
 </ul>
 <br />
-<img src= "http://www.trangnhahoaihuong.com/images/HH_BHCA.jpg" align="center">
+<img src= "/images/HH_BHCA.jpg" align="center">
 <br />
 Virginia, 2003<br />
 
@@ -491,13 +491,13 @@ Virginia, 2003<br />
 
 
 <ul type="disc">
-  <li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=356">Tôi Đưa Em Sang Sông</a>.</li>
+  <li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=356">Tôi Đưa Em Sang Sông</a>.</li>
   <li><a href="./../DocTau/BeoDatMayTroi/BeoDatMayTroi.htm?e39845341d9dd9f16687ab2c60b06063=0d13a773ff138efc8c170ecf2742503f" target = _blank>Bèo Dạt Mây Trôi.</a> - Nguyễn Thế An chuyển soạn cho guitar. <a href="./../DocTau/BeoDatMayTroi/BeoDatMayTroi.mp3?e39845341d9dd9f16687ab2c60b06063=0d13a773ff138efc8c170ecf2742503f" target = _blank>Download</a></li>
   <li><a href="./../DocTau/Romance6.mp3?e39845341d9dd9f16687ab2c60b06063=0d13a773ff138efc8c170ecf2742503f" target = blank>Romance</a> [hoà tấu]. Dựa theo hòa âm của Nguyễn Thế An.</li>
   <li><a href="./../DocTau/TrongCom_HH_5.mp3?e39845341d9dd9f16687ab2c60b06063=0d13a773ff138efc8c170ecf2742503f" target = blank>Trống Cơm (Rice Drum)</a>. Sáng tác của Hoàng Ngọc Tuấn.</li>
 </ul>
 <br />
-<img src= "http://www.trangnhahoaihuong.com/images/HH_Dan_QV.jpg" align="center">
+<img src= "/images/HH_Dan_QV.jpg" align="center">
 <br />
 Quán Văn NOVA, 2007<br />
 <br />
@@ -511,13 +511,13 @@ Quán Văn NOVA, 2007<br />
 
 
 <ul type="disc">
-<li><a href="http://www.trangnhahoaihuong.com/Songs/DungTuyetVong_h_s.wma">Tôi Ơi, Đừng Tuyệt Vọng!</a> 2007 - Trịnh Công Sơn</li> <img border="0" src="http://www.trangnhahoaihuong.com/images/new.gif" width="32" height="16"> 
+<li><a href="/Songs/DungTuyetVong_h_s.wma">Tôi Ơi, Đừng Tuyệt Vọng!</a> 2007 - Trịnh Công Sơn</li> <img border="0" src="/images/new.gif" width="32" height="16"> 
   <li><a href="./../Songs/BongHongCaiAo_3.wma?e39845341d9dd9f16687ab2c60b06063=0d13a773ff138efc8c170ecf2742503f">Bông Hồng Cài Áo, </a> 1996 - Phạm Thế Mỹ</li>
   <li><a href="./../Songs/ThaRangAnhNoi.wma?e39845341d9dd9f16687ab2c60b06063=0d13a773ff138efc8c170ecf2742503f">Thà Rằng Anh Nói</a>, 2006 -Trúc Sinh</li>
   <li><a href="./../Songs/KhongTenSo4.wma?e39845341d9dd9f16687ab2c60b06063=0d13a773ff138efc8c170ecf2742503f">Không Tên Số 4</a>, 1995 -Vũ Thành An</li>
   <li><a href="./../Songs/HuyenThoaiMe_new1.wma?e39845341d9dd9f16687ab2c60b06063=0d13a773ff138efc8c170ecf2742503f">Huyền Thoại Mẹ</a>, 2006 -Trịnh Công Sơn</li>
-  <li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=377">Hương Xưa, </a> 2006 - Cung Tiến</li>   
-  <li><a href="http://www.trangnhahoaihuong.com/Songs/WoDeXin/WoDeXin.htm" target= _blank>Yuèliang dàibiǎo wǒ de xīn</a> 月亮代表我的心 (2007)</li>  
+  <li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=377">Hương Xưa, </a> 2006 - Cung Tiến</li>   
+  <li><a href="/Songs/WoDeXin/WoDeXin.htm" target= _blank>Yuèliang dàibiǎo wǒ de xīn</a> 月亮代表我的心 (2007)</li>  
 </UL>
 <br />
 
@@ -696,7 +696,7 @@ Updated on 01/31/2009 11:15 AM by HoaiHuong
     <td width="13" style="background-image : url(themes/clean/boxstyles/img/leftBg.gif)"><img height="10" alt="" src="themes/clean/boxstyles/img/leftBg.gif" width="13" border="0" /></td>
     <td width="100%" style="background-color : #eeeeef">
       <div style="color : #000000; font-family : arial, helvetica; font-size : .9em; text-transform : uppercase; text-align : left; font-weight : bold">Đề thi Trắc nghiệm môn Toán, Tú Tài II, 1973-1974</div><hr />
-      <div style="text-align : left"><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=335">Do Gs Lê Văn Đặng soạn</a>.<br />
+      <div style="text-align : left"><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=335">Do Gs Lê Văn Đặng soạn</a>.<br />
 </div>
     </td>
     <td width="19" style="background-image : url(themes/clean/boxstyles/img/rightBg.gif)"><img height="9" alt="" src="themes/clean/boxstyles/img/rightBg.gif" width="19" border="0" /></td>

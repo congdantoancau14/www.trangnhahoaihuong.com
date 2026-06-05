@@ -56,7 +56,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=297&amp;MMN_position=10:10">Chữ Nôm</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=297&amp;MMN_position=10:10">Chữ Nôm</a>
 </td>
 
 
@@ -84,7 +84,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Văn</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Văn</a>
 </td>
 
 
@@ -98,7 +98,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=343&amp;MMN_position=54:54">Thơ</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=343&amp;MMN_position=54:54">Thơ</a>
 </td>
 
 
@@ -112,7 +112,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=phpwsbb&amp;PHPWSBB_MAN_OP=list&amp;MMN_position=50:50">Diễn đàn</a>
+<a href="/phpWebSite/index.php?module=phpwsbb&amp;PHPWSBB_MAN_OP=list&amp;MMN_position=50:50">Diễn đàn</a>
 </td>
 
 
@@ -140,7 +140,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/Video/VideoHuongDan.html?&amp;MMN_position=57:57">Video</a>
+<a href="/Video/VideoHuongDan.html?&amp;MMN_position=57:57">Video</a>
 </td>
 
 
@@ -189,7 +189,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=10&amp;MMN_position=27:27">Lời nói đầu</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=10&amp;MMN_position=27:27">Lời nói đầu</a>
 </td>
 
 
@@ -203,7 +203,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=16&amp;MMN_position=36:36">Tiểu sử UBTGT</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=16&amp;MMN_position=36:36">Tiểu sử UBTGT</a>
 </td>
 
 
@@ -217,7 +217,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=233&amp;MMN_position=37:37">Sách tham khảo</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=233&amp;MMN_position=37:37">Sách tham khảo</a>
 </td>
 
 
@@ -231,7 +231,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=18&amp;MMN_position=44:44">Mục lục (toàn bộ)</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=18&amp;MMN_position=44:44">Mục lục (toàn bộ)</a>
 </td>
 
 
@@ -245,7 +245,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=3&amp;MMN_position=34:34">Tra mục lục</a>
+<a href="/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=3&amp;MMN_position=34:34">Tra mục lục</a>
 </td>
 
 
@@ -280,7 +280,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=300&amp;MMN_position=39:39">Vào đề</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=300&amp;MMN_position=39:39">Vào đề</a>
 </td>
 
 
@@ -294,7 +294,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=301&amp;MMN_position=40:40">Thân phận con người</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=301&amp;MMN_position=40:40">Thân phận con người</a>
 </td>
 
 
@@ -322,7 +322,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=303&amp;MMN_position=42:42">Tuồng Trương Ngáo</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=303&amp;MMN_position=42:42">Tuồng Trương Ngáo</a>
 </td>
 
 
@@ -336,7 +336,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=319&amp;MMN_position=48:48">Tiểu sử Nguyễn Văn Sâm</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=319&amp;MMN_position=48:48">Tiểu sử Nguyễn Văn Sâm</a>
 </td>
 
 
@@ -413,7 +413,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=295&amp;MMN_position=49:49">Mục lục (toàn bộ)</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=295&amp;MMN_position=49:49">Mục lục (toàn bộ)</a>
 </td>
 
 
@@ -427,7 +427,7 @@
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=2&amp;MMN_position=29:29">Tra mục lục</a>
+<a href="/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=2&amp;MMN_position=29:29">Tra mục lục</a>
 </td>
 
 
@@ -531,7 +531,7 @@ Expires: 01/01/2011 12:00 AM<br />
 
 
 <i><br />
-Chúng tôi đang bắt đầu phổ biến một số văn bản Nôm, kho tàng văn hoá của tiền nhân để lại, trên trang web này. <img border="0" src="http://www.trangnhahoaihuong.com/images/new.gif" width="32" height="16">
+Chúng tôi đang bắt đầu phổ biến một số văn bản Nôm, kho tàng văn hoá của tiền nhân để lại, trên trang web này. <img border="0" src="/images/new.gif" width="32" height="16">
 <br />
 <i>"...Các tác phẩm xưa như Bạch Vân Quốc Ngữ Thi, Hồng Ðức Quốc Âm Thi Tập, Đoạn Trường Tân Thanh, Cung Oán Ngâm Khúc..., ngay cả các tuồng thật dài, sẽ được phổ biến rộng rãi trên mạng lưới toàn cầu bằng chữ Nôm, ai cần cứ lên đó hạ tải là có, văn bản Nôm sẽ không còn là thứ quí hiếm người ta giữ lấy khư khư làm của riêng như từ trước đến nay! Người khảo cứu về loại tử ngữ nầy vì vậy sẽ đông đảo hơn, sự giới thiệu với người ngoại quốc vì vậy cũng sẽ được sâu rộng hơn. Vui thay với viễn tượng trăm hoa đua nở đó!"</i><br />
 <br />
@@ -539,7 +539,7 @@ Chúng tôi đang bắt đầu phổ biến một số văn bản Nôm, kho tàn
 </i><br /><br />
 
 
-Kính mời quý vị vào đây <a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=documents&amp;JAS_DocumentManager_op=list&amp;MMN_position=52:52">xem và hạ tải các văn bản Nôm</a>.<br />
+Kính mời quý vị vào đây <a href="/phpWebSite/index.php?module=documents&amp;JAS_DocumentManager_op=list&amp;MMN_position=52:52">xem và hạ tải các văn bản Nôm</a>.<br />
 <br />
 <B>NHỮNG VĂN BẢN NÔM TRÊN TRANG WEB NÀY LÀ DO CÁC QUÝ VỊ CÓ LÒNG YÊU CHỮ NÔM VÀ VĂN HOÁ DÂN TỘC SƯU TẬP VÀ MONG MUỐN PHỔ BIẾN THÊM TÀI LIỆU VĂN HOÁ CHO HỌC GIỚI.  XIN QUÝ VỊ ĐỪNG SỬ DỤNG NHỮNG TÀI LIỆU CHỮ NÔM NÀY VÀO MỤC ĐÍCH THƯƠNG MẠI.</B><br />
 <br />
@@ -759,7 +759,7 @@ Rất cám ơn Viện Việt Học đã làm một việc có ý nghĩa cho vi�
     <td width="13" style="background-image : url(themes/clean/boxstyles/img/leftBg.gif)"><img height="10" alt="" src="themes/clean/boxstyles/img/leftBg.gif" width="13" border="0" /></td>
     <td width="100%" style="background-color : #eeeeef">
       <div style="color : #000000; font-family : arial, helvetica; font-size : .9em; text-transform : uppercase; text-align : left; font-weight : bold">Đề thi Trắc nghiệm môn Toán, Tú Tài II, 1973-1974</div><hr />
-      <div style="text-align : left"><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=335">Do Gs Lê Văn Đặng soạn</a>.<br />
+      <div style="text-align : left"><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=335">Do Gs Lê Văn Đặng soạn</a>.<br />
 </div>
     </td>
     <td width="19" style="background-image : url(themes/clean/boxstyles/img/rightBg.gif)"><img height="9" alt="" src="themes/clean/boxstyles/img/rightBg.gif" width="19" border="0" /></td>

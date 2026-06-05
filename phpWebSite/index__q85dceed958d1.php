@@ -9,6 +9,6 @@ Giáo sư Lê Văn Đặng, nguyên thanh tra khảo thí ban Toán, vừa gởi
 <br />
 Ghi chú: Đề thi ban A có sự hợp tác của cố Giáo sư Hà Xuân Châu, thuộc trường Nữ Trung học Trưng Vương, Sài gòn.<br />
 <br />
-<a href="http://www.trangnhahoaihuong.com/files/DeThi_TT2.zip">Download</a><br />
+<a href="/files/DeThi_TT2.zip">Download</a><br />
 <br />
 

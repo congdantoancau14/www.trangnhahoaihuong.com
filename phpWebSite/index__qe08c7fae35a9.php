@@ -62,7 +62,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=383&amp;MMN_position=60:60">Phật học</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=383&amp;MMN_position=60:60">Phật học</a>
 </td>
 
 
@@ -74,7 +74,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=297&amp;MMN_position=10:10">Chữ Nôm</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=297&amp;MMN_position=10:10">Chữ Nôm</a>
 </td>
 
 
@@ -102,7 +102,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Văn</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Văn</a>
 </td>
 
 
@@ -116,7 +116,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=343&amp;MMN_position=54:54">Thơ</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=343&amp;MMN_position=54:54">Thơ</a>
 </td>
 
 
@@ -179,7 +179,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=10&amp;MMN_position=27:27">Lời nói đầu</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=10&amp;MMN_position=27:27">Lời nói đầu</a>
 </td>
 
 
@@ -193,7 +193,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=16&amp;MMN_position=36:36">Tiểu sử UBTGT</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=16&amp;MMN_position=36:36">Tiểu sử UBTGT</a>
 </td>
 
 
@@ -207,7 +207,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=233&amp;MMN_position=37:37">Sách tham khảo</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=233&amp;MMN_position=37:37">Sách tham khảo</a>
 </td>
 
 
@@ -221,7 +221,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=18&amp;MMN_position=44:44">Mục lục (toàn bộ)</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=18&amp;MMN_position=44:44">Mục lục (toàn bộ)</a>
 </td>
 
 
@@ -235,7 +235,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=3&amp;MMN_position=34:34">Tra mục lục</a>
+<a href="/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=3&amp;MMN_position=34:34">Tra mục lục</a>
 </td>
 
 
@@ -270,7 +270,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=300&amp;MMN_position=39:39">Vào đề</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=300&amp;MMN_position=39:39">Vào đề</a>
 </td>
 
 
@@ -284,7 +284,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=301&amp;MMN_position=40:40">Thân phận con người</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=301&amp;MMN_position=40:40">Thân phận con người</a>
 </td>
 
 
@@ -312,7 +312,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=303&amp;MMN_position=42:42">Tuồng Trương Ngáo</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=303&amp;MMN_position=42:42">Tuồng Trương Ngáo</a>
 </td>
 
 
@@ -326,7 +326,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=319&amp;MMN_position=48:48">Tiểu sử Nguyễn Văn Sâm</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=319&amp;MMN_position=48:48">Tiểu sử Nguyễn Văn Sâm</a>
 </td>
 
 
@@ -403,7 +403,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=295&amp;MMN_position=49:49">Mục lục (toàn bộ)</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=295&amp;MMN_position=49:49">Mục lục (toàn bộ)</a>
 </td>
 
 
@@ -417,7 +417,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=2&amp;MMN_position=29:29">Tra mục lục</a>
+<a href="/phpWebSite/index.php?module=phatform&amp;PHAT_MAN_OP=view&amp;PHPWS_MAN_ITEMS[]=2&amp;MMN_position=29:29">Tra mục lục</a>
 </td>
 
 
@@ -511,7 +511,7 @@ Remember Me <input type="checkbox" name="rememberme" value="1" />
 
 
 <ul type="disc">
-  <li><a href="http://www.trangnhahoaihuong.com/files/TheoChanViThayTamLinh.pdf" target = _blank">Làm thế nào để theo chân một vị thầy tâm linh</a><img border="0" src="http://www.trangnhahoaihuong.com/images/new.gif" width="32" height="16"> 
+  <li><a href="/files/TheoChanViThayTamLinh.pdf" target = _blank">Làm thế nào để theo chân một vị thầy tâm linh</a><img border="0" src="/images/new.gif" width="32" height="16"> 
 <br />
       1. Quán sát thầy<br />
       2. Theo chân thầy<br />
@@ -521,13 +521,13 @@ Viet Nalanda Foundation</a> (for free distribution).<br />
 </li>
 <br />
   <li><a href="http://www.vietnalanda.org/Writings/Lama_DiemAu.pdf" target = _blank>Lama</a> Trích Bút ký <i>Buổi sáng, điểm tâm cùng Lạt-ma</i> của <b>Diễm Âu</b></li>
-  <li><a href="http://www.trangnhahoaihuong.com/files/03_TanhKhong_final.pdf" target = _blank>
+  <li><a href="/files/03_TanhKhong_final.pdf" target = _blank>
 Tánh không, thuyết tương đối, và vật lí lượng tử </a> (Emptiness, Relativity and Quantum Physics)- <b>Dalai Lama XIV </b>. Trần Uyên Thi dịch và chú giải. <br />
 Đây là một chương trong quyển <i>The Universe in a Single Atom</i> của Đức Dalai Lama đời thứ XIV).</li>
-  <li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=387">Ai cũng biết thương yêu</a> (Everybody Loves Something) - <b>Pema Chödrön</b>.  Nguyễn Duy Nhiên dịch</li>
-  <li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=386">Việc khó khăn của một giáo sư</a> (A Professor's Dilemma) - <b>Jan Willis</b>.  Nguyễn Duy Nhiên dịch</li>
-  <li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=385">Thành tựu cao cả của trái tim</a> (Triumph of the Heart) - <b>Joseph Goldstein</b>.  Tâm Diệu Phú dịch</li>
-  <li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=384">Đức Phật dạy con như thế nào</a> (The Buddha as a Parent)- <b>Gil Fronsdal</b>.  Hoài Hương dịch</li>
+  <li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=387">Ai cũng biết thương yêu</a> (Everybody Loves Something) - <b>Pema Chödrön</b>.  Nguyễn Duy Nhiên dịch</li>
+  <li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=386">Việc khó khăn của một giáo sư</a> (A Professor's Dilemma) - <b>Jan Willis</b>.  Nguyễn Duy Nhiên dịch</li>
+  <li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=385">Thành tựu cao cả của trái tim</a> (Triumph of the Heart) - <b>Joseph Goldstein</b>.  Tâm Diệu Phú dịch</li>
+  <li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=384">Đức Phật dạy con như thế nào</a> (The Buddha as a Parent)- <b>Gil Fronsdal</b>.  Hoài Hương dịch</li>
 </ul>
 <br />
 
@@ -596,7 +596,7 @@ Updated on 02/22/2009 07:43 AM by HoaiHuong
     <td width="13" style="background-image : url(themes/clean/boxstyles/img/leftBg.gif)"><img height="10" alt="" src="themes/clean/boxstyles/img/leftBg.gif" width="13" border="0" /></td>
     <td width="100%" style="background-color : #eeeeef">
       <div style="color : #000000; font-family : arial, helvetica; font-size : .9em; text-transform : uppercase; text-align : left; font-weight : bold">Đề thi Trắc nghiệm môn Toán, Tú Tài II, 1973-1974</div><hr />
-      <div style="text-align : left"><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=335">Do Gs Lê Văn Đặng soạn</a>.<br />
+      <div style="text-align : left"><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=335">Do Gs Lê Văn Đặng soạn</a>.<br />
 </div>
     </td>
     <td width="19" style="background-image : url(themes/clean/boxstyles/img/rightBg.gif)"><img height="9" alt="" src="themes/clean/boxstyles/img/rightBg.gif" width="19" border="0" /></td>

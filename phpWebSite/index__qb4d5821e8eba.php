@@ -58,7 +58,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=11&amp;MMN_position=3:3">Âm nhạc</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=11&amp;MMN_position=3:3">Âm nhạc</a>
 </td>
 
 
@@ -72,7 +72,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Thơ văn</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=15&amp;MMN_position=11:11">Thơ văn</a>
 </td>
 
 
@@ -86,7 +86,7 @@ var cookievar = "947f7dcab191046423257bdfc99b10dc[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=12&amp;MMN_position=10:10">Chữ Nôm</a>
+<a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=12&amp;MMN_position=10:10">Chữ Nôm</a>
 </td>
 
 
@@ -355,9 +355,9 @@ Username:<br /><input type="text" id="forgot_username" name="forgot_username" va
 
 
 
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=5">Cặp song tấu ghita tuyệt vời nhất thế kỷ, Lagoya &amp; Presti</a></li>
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=6">Sonata Appassionata, Beethoven (1804)</a></li>
-<li><a href="http://www.trangnhahoaihuong.com/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=4">Parle-moi de Ma Mère - Carmen - Bizet</a></li>
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=5">Cặp song tấu ghita tuyệt vời nhất thế kỷ, Lagoya &amp; Presti</a></li>
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=6">Sonata Appassionata, Beethoven (1804)</a></li>
+<li><a href="/phpWebSite/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=4">Parle-moi de Ma Mère - Carmen - Bizet</a></li>
 <br /><br />
 
 
